@@ -25,7 +25,10 @@ class MainActivity : ComponentActivity() {
                   modifier = Modifier.fillMaxSize(),
                   color = MaterialTheme.colorScheme.background
               ) {
-                  TestModifiers()
+                 // TestLayout()
+                  //TestModifiers()
+                  TestExample()
+
               }
             }
         }
