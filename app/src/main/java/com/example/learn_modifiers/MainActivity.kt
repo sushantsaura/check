@@ -27,8 +27,8 @@ class MainActivity : ComponentActivity() {
               ) {
                  // TestLayout()
                   //TestModifiers()
-                  TestExample()
-
+                 // TestExample()
+                    TestTextUsed()
               }
             }
         }
